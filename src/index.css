@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font for headings */
+.primary-font {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Font for other text */
+.secondary-font {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+}
