@@ -14,10 +14,10 @@ const Navbar = () => {
     };
 
     const navLinks = [
-        { to: '/', text: 'About' },
+        { to: '/about', text: 'About' },
         { to: '/learning', text: 'Learning' },
         { to: '/projects', text: 'Projects' },
-        { to: '/contact', text: 'Contact' },
+        { to: '/', text: 'Contact' },
     ];
 
     const navOptions = navLinks.map((link) => (
@@ -34,7 +34,7 @@ const Navbar = () => {
 
     return (
         <nav className="p-4">
-            <div className="container mx-auto flex items-center justify-between">
+            <div className="container mx-auto flex items-center justify-between fixed z-10">
                 {/* Portfolio on the left */}
                 <div>
                     <Link

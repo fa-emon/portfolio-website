@@ -2,7 +2,7 @@
 
 const Learning = () => {
     return (
-        <div className="mt-20 px-20">
+        <div className="mt-32 px-20">
             <h2 className='text-2xl primary-font ms-24' style={{ background: 'linear-gradient(to left, rgba(255, 255, 255, 1), rgba(169, 169, 169, 0.5))', color: 'transparent', display: 'inline', WebkitBackgroundClip: 'text', backgroundClip: 'text' }}>LEARNING</h2>
 
             <div className="grid md:grid-cols-4 lg:grid-cols-4 gap-10">

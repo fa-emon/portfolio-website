@@ -42,7 +42,7 @@ const About = () => {
     ];
 
     return (
-        <div className="w-full flex items-center px-20">
+        <div className="w-full flex items-center px-20 mt-32">
             <div className="w-1/2">
                 <h2 className='text-2xl primary-font ms-24' style={{ background: 'linear-gradient(to left, rgba(255, 255, 255, 1), rgba(169, 169, 169, 0.5))', color: 'transparent', display: 'inline', WebkitBackgroundClip: 'text', backgroundClip: 'text' }}>ABOUT</h2>
                 <img className="w-[300px] h-[400px] rounded-md object-cover mt-4 ms-24" src="https://i.ibb.co/SBsKyjD/left.jpg" alt="" />

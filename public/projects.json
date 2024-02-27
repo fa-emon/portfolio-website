@@ -1,0 +1,44 @@
+[
+    {
+        "title": "luminaStore",
+        "image": "https://i.ibb.co/C6YqwMq/pexels-photo-4173113.jpg",
+        "description": "Your spot for easy and bright shopping.",
+        "skills": [
+            "react",
+            "express js",
+            "node js"
+        ],
+        "client_side": "https://luminastore-client.web.app/",
+        "server_side": "https://lumina-store-server.vercel.app/",
+        "github_client": "https://github.com/fa-emon/luminaStore-client",
+        "github_server": "https://github.com/fa-emon/luminaStore-server"
+    },
+    {
+        "title": "swiftBite",
+        "image": "https://i.ibb.co/JBqVxJB/pexels-photo-2220618.jpg",
+        "description": "Fast, tasty, and all about satisfying your cravings",
+        "skills": [
+            "react",
+            "express js",
+            "node js"
+        ],
+        "client_side": "https://swiftbite-client.web.app/",
+        "server_side": "https://swift-bite-server.vercel.app/",
+        "github_client": "https://github.com/fa-emon/swiftBite-client",
+        "github_server": "https://github.com/fa-emon/swiftBite-server"
+    },
+    {
+        "title": "GlamHub",
+        "image": "https://i.ibb.co/XbnWTgS/pexels-photo-2644735.jpg",
+        "description": "Where style meets trend in beauty, fashion, and lifestyle.",
+        "skills": [
+            "react",
+            "express js",
+            "node js"
+        ],
+        "client_side": "https://glamhub-client.web.app/",
+        "server_side": "https://glamhub-server.vercel.app/",
+        "github_client": "https://github.com/fa-emon/glamhub-client",
+        "github_server": "https://github.com/fa-emon/glamhub-server"
+    }
+]
