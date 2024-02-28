@@ -40,5 +40,11 @@
         "server_side": "https://glamhub-server.vercel.app/",
         "github_client": "https://github.com/fa-emon/glamhub-client",
         "github_server": "https://github.com/fa-emon/glamhub-server"
+    },
+    {
+        "title": "Sketchy",
+        "image": "https://i.ibb.co/gz29Vg0/SAVE-20240228-123512.jpg",
+        "description": "Seeking perfection with minimal effort in life.",
+        "workflow": "https://drive.google.com/drive/folders/1E_Ycee-gKjtq28vFY_rDGpgdZqkLgCAD"
     }
 ]
